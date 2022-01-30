@@ -1,0 +1,55 @@
+.collapse {
+    background-color: #fff;
+    background-image: url('img/leavesbackdrop.jpg');
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#button{
+    color: gold;
+}
+
+.navbar {
+    background: rgb(251,251,255);
+    background: linear-gradient(90deg, rgba(251,251,255,0) 0%, rgba(67,134,42,1) 0%, rgba(9,66,3,1) 100%);
+}
+
+.navbar-brand, .d-flex {
+    font-family: 'Dancing Script', cursive;
+    color: gold;
+}
+
+#text {
+    background-image: url('img/background.jpeg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    background-color: #fff;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h1, span {
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+
+.directions {
+    text-decoration: none;
+    color: black;
+}
+
+.directions:hover {
+    color: gold;
+    border: 1px solid gold;
+}
+
+.carolina {
+    color: #FF007F;
+}
